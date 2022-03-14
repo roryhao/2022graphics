@@ -10,7 +10,7 @@
 5. git push 推送到雲端，BUT要登入
 6 在Chrome登陸GitHub
 
-#基本設定
+## 基本設定
 
 ```c
 #include <GL/glut.h>
