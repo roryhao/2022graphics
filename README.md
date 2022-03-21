@@ -1,5 +1,7 @@
 ## 2022graphics
 # 把修改的資料，推送到雲端
+cd desktop 進人貞面
+git clone https：1/你的倉庫網址
 1. cd 2022graphics 進入你的倉庫
 2. git status 看你的狀況（红的，多了目錄）
 3. git add .把檔案加進帳冊
