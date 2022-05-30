@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1653897831 source:c:\users\xuser\desktop\week15_homework_gundam_parts\glm.cpp
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+
+1653897832 c:\users\xuser\desktop\week15_homework_gundam_parts\glm.h
+	<GL/glut.h>
+
+1426320928 c:\users\xuser\desktop\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 c:\users\xuser\desktop\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1653898653 source:c:\users\xuser\desktop\week15_homework_gundam_parts\main.cpp
+	<GL/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	"glm.h"
+
